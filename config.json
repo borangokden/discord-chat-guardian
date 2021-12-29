@@ -1,0 +1,13 @@
+{
+    "bot": {
+        "Token": "BOT TOKEN",
+        "Owner": "BOT YAPIMCISININ ID'SI",
+        "Prefix": "PREFIX",
+        "BotSesKanalı": "BOT SES KANALI ID",
+        "BotDurum": "DEVELOPED BY BORANGKDN",
+        "BotFooter": "DEVELOPED BY BORANGKDN"
+    },
+    "general": {
+        "MutedRol": "SUSTURULMUŞ ROLÜ ID"
+    }
+}

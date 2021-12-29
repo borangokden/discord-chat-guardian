@@ -1,0 +1,15 @@
+{
+  "name": "borangkdn-discord-chat-guard",
+  "version": "1.0.0",
+  "description": "BoranGkdn",
+  "main": "borangkdn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BoranGkdn",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "quick.db": "^7.1.3"
+  }
+}
