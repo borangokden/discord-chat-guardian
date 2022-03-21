@@ -167,6 +167,6 @@ client.on('message', async message => {
 
 //----------------------------TOKEN-----------------------------------||
 
-client.login(config.token).then(() => console.log(`Bot ${client.user.username} olarak giriş yaptı!`)).catch(() => console.log("Bot giriş yaparken bir hata oluştu!"))
+client.login(config.bot.Token).then(() => console.log(`Bot ${client.user.username} olarak giriş yaptı!`)).catch(() => console.log("Bot giriş yaparken bir hata oluştu!"))
 
 //----------------------------TOKEN-----------------------------------||
